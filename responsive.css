@@ -156,8 +156,8 @@
   /* Header */
 
   #Header {
-    /* top: 45%; */
-    left: 32%;
+    top: 25%;
+    left: 30%;
     max-width: 330px;
     text-align: center;
     display: flex;
